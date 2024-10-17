@@ -1,0 +1,7 @@
+body {
+    background-image: url(obrazek_bez_powtorzen.png);
+    background-repeat: repeat-x; /* Powtarza się tylko w poziomie*/
+    background-color:aqua;
+    margin: 100px;
+    font-size: large;
+}

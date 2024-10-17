@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    background-image: url(obrazek_bez_powtorzen.png);  
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+
+p {
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 16px;
+
+    text-indent: 30px;
+
+    word-spacing: 5px;
+
+    border: 2px solid green;
+
+    padding: 10px;
+
+    background-color: lightyellow;
+
+    opacity: 0.8;
+}
+

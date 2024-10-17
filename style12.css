@@ -1,0 +1,21 @@
+body {
+    background-color: lightslategrey;
+}
+
+div {
+    color:red;
+    font-style: italic;
+    font-size: large;
+
+    border-style: solid;
+    border-color: black;
+    width: 200px;
+    border-radius: 10px 0 10px 0;
+
+    letter-spacing: 9px;
+    word-spacing: 13px;
+
+    text-transform: uppercase;
+
+    padding: 20px;
+}

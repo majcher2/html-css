@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray;
+}
+
+a {
+    color: brown;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;   
+}
+
+a:active {
+    color: darkgreen;
+    border: 2px solid black;
+}
+
+a:hover {
+    background-color: darkgray;
+    border: 3px solid greenyellow;
+    letter-spacing: 15px;
+    padding: 5px;
+}
+
+a:visited {
+    color: rgb(201, 184, 36);
+}

@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+ol li {
+    color: rgb(68, 68, 68);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+ol:hover {
+    background-color: plum;
+    color: green;
+}
+

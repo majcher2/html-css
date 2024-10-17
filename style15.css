@@ -1,0 +1,27 @@
+body {
+    background-color: grey;
+}
+
+table {
+    width: 400px;
+    height: 200px;
+
+    border-left: 4px solid blue;
+    border-right: 4px dashed red;
+
+
+}
+
+td {
+    width: 200px;
+    height: 100px;
+
+    background-color: orange;
+
+    text-align: center;
+    vertical-align: middle;
+
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
